@@ -1,2 +1,1 @@
-# TikTok-Bruteforce
-TikTok Bruteforce tool on combolist
+899€ https://t.me/xtekky
