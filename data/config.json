@@ -1,0 +1,12 @@
+{
+    "threads": 5,
+    "mode": "email",
+    "webhook": {
+        "enabled": true,
+        "link": "https://discord.com/api/webhooks/997536111733784767/RNg1Mh2fgcjOS87W0IvVy8ItwAyHWxqwybBSDOQ3dqTjDeFFPhcHSMZ1Uy6nkn8ceb65"
+    },
+    "logging": {
+        "enabled": true,
+        "file": "data/log.txt"
+    }
+}
